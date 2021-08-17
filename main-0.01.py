@@ -4,17 +4,24 @@ import numpy as np
 import pandas as pd
 from tqdm import tqdm
 import time
+from datetime import date
 
 import tickers
 import pricedata
 
 
+def scanNumber():
+	weekNumber = (date.today().isocalendar()[1])
+	return(f"week-{weekNumber}-scan.txt")
+	
 def main():
 
 	tickers.screener()
 
 # Create file to write results to
-	with open("week-30-Scan.txt", "a") as r:
+	fileName = scanNumber()	
+
+	with open(fileName, "a") as r:
 
 		with open ("tickers.txt") as f:
 			tickerdata = f.readlines()
