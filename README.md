@@ -11,9 +11,10 @@ The alert and profile will include, the symbol of the stock, current bar count a
 price-data.py 
 - Fetch data for tickers as a group.
 
-setup.py
-
 main.py
 - Change the name!
 - Should I flip the table data so the latest close is first in the index of data?
 - Clean up
+
+### Feedback
+Suggestions/improvements are [welcome](https://github.com/D1al-T0ne/Stonks/issues).
