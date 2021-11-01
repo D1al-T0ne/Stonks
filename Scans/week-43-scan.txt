@@ -1,0 +1,1249 @@
+ADM
+On Bar 4 of Sell Count
+The latest close is 64.24
+TDST Resistence level is 68.89
+
+AME
+On Bar 1 of Sell Count
+The latest close is 132.40
+TDST Resistence level is 137.74
+
+BF-B
+On Bar 1 of Sell Count
+The latest close is 67.89
+TDST Resistence level is 80.64
+
+BKI
+On Bar 1 of Sell Count
+The latest close is 70.11
+TDST Resistence level is 83.84
+
+BWA
+On Bar 6 of Sell Count
+The latest close is 45.07
+TDST Resistence level is 52.78
+
+CAT
+On Bar 1 of Sell Count
+The latest close is 204.01
+TDST Resistence level is 243.03
+
+CFG
+On Bar 6 of Sell Count
+The latest close is 46.99
+TDST Resistence level is 49.32
+
+CHD
+On Bar 1 of Sell Count
+The latest close is 87.36
+TDST Resistence level is 89.43
+
+CNA
+On Bar 3 of Sell Count
+The latest close is 44.86
+TDST Resistence level is 47.56
+
+CTVA
+On Bar 2 of Sell Count
+The latest close is 43.15
+TDST Resistence level is 49.68
+
+D
+On Bar 1 of Sell Count
+The latest close is 75.93
+TDST Resistence level is 78.86
+
+DD
+On Bar 2 of Sell Count
+The latest close is 69.60
+TDST Resistence level is 85.78
+
+DOW
+On Bar 2 of Sell Count
+The latest close is 55.97
+TDST Resistence level is 69.72
+
+ED
+On Bar 2 of Sell Count
+The latest close is 75.40
+TDST Resistence level is 75.41
+
+EEM
+On Bar 2 of Sell Count
+The latest close is 50.92
+TDST Resistence level is 55.62
+
+EMN
+On Bar 2 of Sell Count
+The latest close is 104.03
+TDST Resistence level is 128.42
+
+EQH
+On Bar 3 of Sell Count
+The latest close is 33.50
+TDST Resistence level is 34.08
+
+ES
+On Bar 2 of Sell Count
+The latest close is 84.90
+TDST Resistence level is 86.95
+
+ET
+On Bar 4 of Sell Count
+The latest close is 9.51
+TDST Resistence level is 10.61
+
+FDX
+On Bar 1 of Sell Count
+The latest close is 235.53
+TDST Resistence level is 297.66
+
+FIS
+On Bar 2 of Sell Count
+The latest close is 110.74
+TDST Resistence level is 151.46
+
+FIS
+On Bar 2 of Sell Count
+The latest close is 110.74
+TDST Resistence level is 150.29
+
+FLT
+On Bar 6 of Sell Count
+The latest close is 247.41
+TDST Resistence level is 295.19
+
+GM
+On Bar 6 of Sell Count
+The latest close is 54.43
+TDST Resistence level is 60.38
+
+HEI
+On Bar 5 of Sell Count
+The latest close is 139.39
+TDST Resistence level is 142.67
+
+HEI-A
+On Bar 5 of Sell Count
+The latest close is 125.68
+TDST Resistence level is 132.66
+
+HES
+On Bar 6 of Sell Count
+The latest close is 82.57
+TDST Resistence level is 90.00
+
+HPE
+On Bar 3 of Sell Count
+The latest close is 14.65
+TDST Resistence level is 16.35
+
+HRL
+On Bar 2 of Sell Count
+The latest close is 42.32
+TDST Resistence level is 48.60
+
+HUM
+On Bar 3 of Sell Count
+The latest close is 463.16
+TDST Resistence level is 471.67
+
+IEX
+On Bar 1 of Sell Count
+The latest close is 222.57
+TDST Resistence level is 228.62
+
+IVZ
+On Bar 1 of Sell Count
+The latest close is 25.41
+TDST Resistence level is 29.16
+
+KMI
+On Bar 4 of Sell Count
+The latest close is 16.49
+TDST Resistence level is 18.59
+
+LMT
+On Bar 3 of Sell Count
+The latest close is 332.32
+TDST Resistence level is 381.94
+
+LVS
+On Bar 2 of Sell Count
+The latest close is 38.81
+TDST Resistence level is 64.33
+
+LYB
+On Bar 4 of Sell Count
+The latest close is 92.82
+TDST Resistence level is 115.11
+
+MAS
+On Bar 2 of Sell Count
+The latest close is 65.55
+TDST Resistence level is 68.02
+
+MET
+On Bar 4 of Sell Count
+The latest close is 62.80
+TDST Resistence level is 66.43
+
+MTB
+On Bar 6 of Sell Count
+The latest close is 147.12
+TDST Resistence level is 163.09
+
+NEM
+On Bar 2 of Sell Count
+The latest close is 54.00
+TDST Resistence level is 69.52
+
+PPG
+On Bar 2 of Sell Count
+The latest close is 160.57
+TDST Resistence level is 170.01
+
+ROP
+On Bar 2 of Sell Count
+The latest close is 487.87
+TDST Resistence level is 488.63
+
+RPM
+On Bar 2 of Sell Count
+The latest close is 87.20
+TDST Resistence level is 88.03
+
+SWK
+On Bar 1 of Sell Count
+The latest close is 179.73
+TDST Resistence level is 206.18
+
+TDG
+On Bar 6 of Sell Count
+The latest close is 623.82
+TDST Resistence level is 670.66
+
+TDOC
+On Bar 1 of Sell Count
+The latest close is 149.59
+TDST Resistence level is 161.42
+
+TGT
+On Bar 1 of Sell Count
+The latest close is 259.62
+TDST Resistence level is 262.59
+
+TTC
+On Bar 1 of Sell Count
+The latest close is 95.47
+TDST Resistence level is 114.47
+
+U
+On Bar 3 of Sell Count
+The latest close is 151.31
+TDST Resistence level is 167.32
+
+VMW
+On Bar 4 of Sell Count
+The latest close is 151.70
+TDST Resistence level is 164.82
+
+WLK
+On Bar 4 of Sell Count
+The latest close is 97.34
+TDST Resistence level is 105.38
+
+ACA
+On Bar 4 of Sell Count
+The latest close is 51.73
+TDST Resistence level is 64.01
+
+ACM
+On Bar 1 of Sell Count
+The latest close is 68.37
+TDST Resistence level is 70.04
+
+ADT
+On Bar 3 of Sell Count
+The latest close is 8.35
+TDST Resistence level is 11.13
+
+AGCO
+On Bar 2 of Sell Count
+The latest close is 122.21
+TDST Resistence level is 155.44
+
+AJRD
+On Bar 3 of Sell Count
+The latest close is 44.01
+TDST Resistence level is 48.07
+
+AJRD
+On Bar 3 of Sell Count
+The latest close is 44.01
+TDST Resistence level is 48.62
+
+ASB
+On Bar 5 of Sell Count
+The latest close is 22.28
+TDST Resistence level is 23.06
+
+ATR
+On Bar 2 of Sell Count
+The latest close is 120.42
+TDST Resistence level is 153.18
+
+AVA
+On Bar 2 of Sell Count
+The latest close is 39.81
+TDST Resistence level is 46.99
+
+AWI
+On Bar 1 of Sell Count
+The latest close is 105.65
+TDST Resistence level is 110.85
+
+AXTA
+On Bar 3 of Sell Count
+The latest close is 31.19
+TDST Resistence level is 33.04
+
+BCC
+On Bar 2 of Sell Count
+The latest close is 56.62
+TDST Resistence level is 66.97
+
+BKU
+On Bar 4 of Sell Count
+The latest close is 40.56
+TDST Resistence level is 48.20
+
+BWXT
+On Bar 3 of Sell Count
+The latest close is 56.74
+TDST Resistence level is 68.20
+
+CBU
+On Bar 3 of Sell Count
+The latest close is 71.67
+TDST Resistence level is 81.15
+
+CCCS
+On Bar 1 of Sell Count
+The latest close is 11.98
+TDST Resistence level is 16.11
+
+CHPT
+On Bar 1 of Sell Count
+The latest close is 24.78
+TDST Resistence level is 44.24
+
+CNNE
+On Bar 2 of Sell Count
+The latest close is 34.10
+TDST Resistence level is 40.92
+
+CNX
+On Bar 8 of Sell Count
+The latest close is 14.61
+TDST Resistence level is 14.68
+
+DEI
+On Bar 3 of Sell Count
+The latest close is 32.68
+TDST Resistence level is 34.84
+
+DOOR
+On Bar 2 of Sell Count
+The latest close is 120.01
+TDST Resistence level is 130.88
+
+EAF
+On Bar 2 of Sell Count
+The latest close is 10.70
+TDST Resistence level is 13.53
+
+ENS
+On Bar 2 of Sell Count
+The latest close is 80.04
+TDST Resistence level is 99.45
+
+EQC
+On Bar 3 of Sell Count
+The latest close is 25.93
+TDST Resistence level is 28.19
+
+ESE
+On Bar 2 of Sell Count
+The latest close is 84.56
+TDST Resistence level is 113.79
+
+ESE
+On Bar 2 of Sell Count
+The latest close is 84.56
+TDST Resistence level is 95.85
+
+EWH
+On Bar 2 of Sell Count
+The latest close is 24.54
+TDST Resistence level is 27.03
+
+FBK
+On Bar 6 of Sell Count
+The latest close is 45.33
+TDST Resistence level is 46.04
+
+FHN
+On Bar 4 of Sell Count
+The latest close is 16.97
+TDST Resistence level is 19.11
+
+FLS
+On Bar 2 of Sell Count
+The latest close is 33.62
+TDST Resistence level is 43.38
+
+FNB
+On Bar 4 of Sell Count
+The latest close is 11.65
+TDST Resistence level is 13.45
+
+FTAI
+On Bar 2 of Sell Count
+The latest close is 26.11
+TDST Resistence level is 33.03
+
+FUBO
+On Bar 1 of Sell Count
+The latest close is 29.81
+TDST Resistence level is 43.28
+
+HASI
+On Bar 2 of Sell Count
+The latest close is 60.40
+TDST Resistence level is 67.77
+
+HAYW
+On Bar 6 of Sell Count
+The latest close is 23.19
+TDST Resistence level is 25.10
+
+HI
+On Bar 3 of Sell Count
+The latest close is 45.46
+TDST Resistence level is 49.67
+
+HLF
+On Bar 1 of Sell Count
+The latest close is 46.40
+TDST Resistence level is 56.55
+
+HP
+On Bar 4 of Sell Count
+The latest close is 31.04
+TDST Resistence level is 33.88
+
+HPP
+On Bar 3 of Sell Count
+The latest close is 25.75
+TDST Resistence level is 28.52
+
+JELD
+On Bar 1 of Sell Count
+The latest close is 27.41
+TDST Resistence level is 31.42
+
+KEX
+On Bar 3 of Sell Count
+The latest close is 52.41
+TDST Resistence level is 68.60
+
+KMPR
+On Bar 3 of Sell Count
+The latest close is 63.48
+TDST Resistence level is 83.26
+
+KMT
+On Bar 2 of Sell Count
+The latest close is 39.75
+TDST Resistence level is 42.19
+
+LEG
+On Bar 1 of Sell Count
+The latest close is 46.85
+TDST Resistence level is 54.95
+
+LGF-A
+On Bar 7 of Sell Count
+The latest close is 12.95
+TDST Resistence level is 20.82
+
+MCW
+On Bar 1 of Sell Count
+The latest close is 18.34
+TDST Resistence level is 24.49
+
+MCY
+On Bar 1 of Sell Count
+The latest close is 54.49
+TDST Resistence level is 61.60
+
+MDC
+On Bar 1 of Sell Count
+The latest close is 48.98
+TDST Resistence level is 62.95
+
+MOG-A
+On Bar 3 of Sell Count
+The latest close is 75.53
+TDST Resistence level is 90.30
+
+MP
+On Bar 1 of Sell Count
+The latest close is 33.85
+TDST Resistence level is 48.00
+
+MSM
+On Bar 3 of Sell Count
+The latest close is 84.07
+TDST Resistence level is 89.84
+
+MTZ
+On Bar 1 of Sell Count
+The latest close is 89.13
+TDST Resistence level is 122.33
+
+NEU
+On Bar 4 of Sell Count
+The latest close is 340.01
+TDST Resistence level is 389.94
+
+NHI
+On Bar 2 of Sell Count
+The latest close is 53.78
+TDST Resistence level is 72.74
+
+NHI
+On Bar 2 of Sell Count
+The latest close is 53.78
+TDST Resistence level is 68.07
+
+NJR
+On Bar 3 of Sell Count
+The latest close is 37.81
+TDST Resistence level is 43.62
+
+NOV
+On Bar 4 of Sell Count
+The latest close is 14.02
+TDST Resistence level is 17.83
+
+NUS
+On Bar 1 of Sell Count
+The latest close is 40.15
+TDST Resistence level is 53.43
+
+OC
+On Bar 1 of Sell Count
+The latest close is 93.41
+TDST Resistence level is 108.63
+
+OFC
+On Bar 3 of Sell Count
+The latest close is 27.12
+TDST Resistence level is 29.69
+
+OGS
+On Bar 2 of Sell Count
+The latest close is 67.30
+TDST Resistence level is 73.98
+
+OI
+On Bar 3 of Sell Count
+The latest close is 13.05
+TDST Resistence level is 19.33
+
+OMI
+On Bar 1 of Sell Count
+The latest close is 35.88
+TDST Resistence level is 46.91
+
+OSCR
+On Bar 1 of Sell Count
+The latest close is 17.28
+TDST Resistence level is 25.64
+
+PAY
+On Bar 1 of Sell Count
+The latest close is 25.60
+TDST Resistence level is 32.00
+
+PHR
+On Bar 1 of Sell Count
+The latest close is 70.54
+TDST Resistence level is 72.00
+
+PRG
+On Bar 1 of Sell Count
+The latest close is 40.45
+TDST Resistence level is 56.41
+
+PSLV
+On Bar 2 of Sell Count
+The latest close is 8.36
+TDST Resistence level is 10.03
+
+PVH
+On Bar 2 of Sell Count
+The latest close is 109.33
+TDST Resistence level is 116.45
+
+RL
+On Bar 4 of Sell Count
+The latest close is 127.17
+TDST Resistence level is 138.59
+
+RLI
+On Bar 2 of Sell Count
+The latest close is 108.31
+TDST Resistence level is 116.34
+
+SAIL
+On Bar 1 of Sell Count
+The latest close is 47.98
+TDST Resistence level is 54.59
+
+SAM
+On Bar 1 of Sell Count
+The latest close is 492.48
+TDST Resistence level is 1231.85
+
+SCL
+On Bar 3 of Sell Count
+The latest close is 120.02
+TDST Resistence level is 137.88
+
+SHLX
+On Bar 2 of Sell Count
+The latest close is 12.44
+TDST Resistence level is 14.68
+
+SIL
+On Bar 2 of Sell Count
+The latest close is 38.83
+TDST Resistence level is 48.23
+
+SJI
+On Bar 1 of Sell Count
+The latest close is 22.76
+TDST Resistence level is 25.42
+
+SKX
+On Bar 1 of Sell Count
+The latest close is 46.21
+TDST Resistence level is 53.20
+
+SLQT
+On Bar 1 of Sell Count
+The latest close is 13.29
+TDST Resistence level is 31.79
+
+SMG
+On Bar 2 of Sell Count
+The latest close is 148.46
+TDST Resistence level is 246.11
+
+STL
+On Bar 6 of Sell Count
+The latest close is 25.38
+TDST Resistence level is 26.46
+
+STOR
+On Bar 2 of Sell Count
+The latest close is 34.33
+TDST Resistence level is 36.02
+
+TDS
+On Bar 1 of Sell Count
+The latest close is 18.74
+TDST Resistence level is 25.45
+
+TKR
+On Bar 2 of Sell Count
+The latest close is 70.95
+TDST Resistence level is 89.62
+
+TMHC
+On Bar 3 of Sell Count
+The latest close is 30.53
+TDST Resistence level is 32.94
+
+TSE
+On Bar 6 of Sell Count
+The latest close is 56.06
+TDST Resistence level is 68.01
+
+USFD
+On Bar 6 of Sell Count
+The latest close is 34.67
+TDST Resistence level is 40.51
+
+VNO
+On Bar 6 of Sell Count
+The latest close is 42.63
+TDST Resistence level is 47.84
+
+VZIO
+On Bar 4 of Sell Count
+The latest close is 20.54
+TDST Resistence level is 26.46
+
+WEX
+On Bar 4 of Sell Count
+The latest close is 149.70
+TDST Resistence level is 208.38
+
+WOR
+On Bar 1 of Sell Count
+The latest close is 54.32
+TDST Resistence level is 61.25
+
+WWW
+On Bar 1 of Sell Count
+The latest close is 33.17
+TDST Resistence level is 44.47
+
+XPRO
+On Bar 4 of Sell Count
+The latest close is 17.15
+TDST Resistence level is 24.30
+
+ALNY
+On Bar 3 of Sell Count
+The latest close is 159.56
+TDST Resistence level is 172.82
+
+ATVI
+On Bar 1 of Sell Count
+The latest close is 78.19
+TDST Resistence level is 92.25
+
+FISV
+On Bar 2 of Sell Count
+The latest close is 98.49
+TDST Resistence level is 127.34
+
+IAC
+On Bar 8 of Sell Count
+The latest close is 152.37
+TDST Resistence level is 158.72
+
+IBKR
+On Bar 4 of Sell Count
+The latest close is 70.85
+TDST Resistence level is 73.63
+
+MDLZ
+On Bar 1 of Sell Count
+The latest close is 60.74
+TDST Resistence level is 63.74
+
+MIDD
+On Bar 1 of Sell Count
+The latest close is 182.44
+TDST Resistence level is 194.07
+
+NWS
+On Bar 6 of Sell Count
+The latest close is 22.56
+TDST Resistence level is 25.57
+
+PLUG
+On Bar 3 of Sell Count
+The latest close is 38.27
+TDST Resistence level is 65.01
+
+PTC
+On Bar 2 of Sell Count
+The latest close is 127.35
+TDST Resistence level is 152.00
+
+PTON
+On Bar 1 of Sell Count
+The latest close is 91.44
+TDST Resistence level is 166.57
+
+RPRX
+On Bar 1 of Sell Count
+The latest close is 39.53
+TDST Resistence level is 52.51
+
+RUN
+On Bar 2 of Sell Count
+The latest close is 57.68
+TDST Resistence level is 87.56
+
+RUN
+On Bar 2 of Sell Count
+The latest close is 57.68
+TDST Resistence level is 60.19
+
+SGEN
+On Bar 4 of Sell Count
+The latest close is 176.33
+TDST Resistence level is 184.76
+
+SIRI
+On Bar 1 of Sell Count
+The latest close is 6.09
+TDST Resistence level is 6.80
+
+SOFI
+On Bar 7 of Sell Count
+The latest close is 20.09
+TDST Resistence level is 22.84
+
+TTWO
+On Bar 3 of Sell Count
+The latest close is 181.00
+TDST Resistence level is 187.90
+
+VTRS
+On Bar 1 of Sell Count
+The latest close is 13.35
+TDST Resistence level is 16.56
+
+VTRS
+On Bar 1 of Sell Count
+The latest close is 13.35
+TDST Resistence level is 15.80
+
+WYNN
+On Bar 2 of Sell Count
+The latest close is 89.80
+TDST Resistence level is 129.32
+
+Z
+On Bar 1 of Sell Count
+The latest close is 103.63
+TDST Resistence level is 116.79
+
+ZG
+On Bar 1 of Sell Count
+The latest close is 105.72
+TDST Resistence level is 118.31
+
+ZM
+On Bar 1 of Sell Count
+The latest close is 274.65
+TDST Resistence level is 404.35
+
+AAON
+On Bar 3 of Sell Count
+The latest close is 71.65
+TDST Resistence level is 78.66
+
+ABCB
+On Bar 5 of Sell Count
+The latest close is 52.39
+TDST Resistence level is 57.59
+
+ACAD
+On Bar 4 of Sell Count
+The latest close is 17.95
+TDST Resistence level is 49.91
+
+ACAD
+On Bar 4 of Sell Count
+The latest close is 17.95
+TDST Resistence level is 24.76
+
+ACVA
+On Bar 2 of Sell Count
+The latest close is 19.47
+TDST Resistence level is 34.99
+
+AGNC
+On Bar 3 of Sell Count
+The latest close is 15.80
+TDST Resistence level is 18.16
+
+ALHC
+On Bar 1 of Sell Count
+The latest close is 19.86
+TDST Resistence level is 27.74
+
+ALKT
+On Bar 2 of Sell Count
+The latest close is 30.00
+TDST Resistence level is 36.00
+
+AMED
+On Bar 1 of Sell Count
+The latest close is 169.34
+TDST Resistence level is 264.32
+
+ARRY
+On Bar 3 of Sell Count
+The latest close is 21.35
+TDST Resistence level is 52.76
+
+ASTR
+On Bar 1 of Sell Count
+The latest close is 9.74
+TDST Resistence level is 16.33
+
+AUB
+On Bar 4 of Sell Count
+The latest close is 35.87
+TDST Resistence level is 41.31
+
+BANF
+On Bar 5 of Sell Count
+The latest close is 65.01
+TDST Resistence level is 71.12
+
+BLKB
+On Bar 6 of Sell Count
+The latest close is 71.01
+TDST Resistence level is 77.60
+
+CASY
+On Bar 1 of Sell Count
+The latest close is 191.18
+TDST Resistence level is 227.45
+
+CCMP
+On Bar 1 of Sell Count
+The latest close is 128.37
+TDST Resistence level is 190.66
+
+CDK
+On Bar 6 of Sell Count
+The latest close is 43.52
+TDST Resistence level is 53.52
+
+CDNA
+On Bar 2 of Sell Count
+The latest close is 51.00
+TDST Resistence level is 92.17
+
+CENT
+On Bar 4 of Sell Count
+The latest close is 51.58
+TDST Resistence level is 56.18
+
+CSWI
+On Bar 3 of Sell Count
+The latest close is 138.47
+TDST Resistence level is 142.48
+
+CVBF
+On Bar 4 of Sell Count
+The latest close is 20.02
+TDST Resistence level is 22.58
+
+CVET
+On Bar 1 of Sell Count
+The latest close is 20.19
+TDST Resistence level is 36.83
+
+CVET
+On Bar 1 of Sell Count
+The latest close is 20.19
+TDST Resistence level is 24.29
+
+DORM
+On Bar 4 of Sell Count
+The latest close is 104.38
+TDST Resistence level is 105.00
+
+EBC
+On Bar 4 of Sell Count
+The latest close is 20.77
+TDST Resistence level is 22.40
+
+ERIE
+On Bar 7 of Sell Count
+The latest close is 205.81
+TDST Resistence level is 226.03
+
+FCEL
+On Bar 6 of Sell Count
+The latest close is 7.99
+TDST Resistence level is 10.27
+
+FMBI
+On Bar 4 of Sell Count
+The latest close is 19.25
+TDST Resistence level is 21.95
+
+FRME
+On Bar 4 of Sell Count
+The latest close is 41.58
+TDST Resistence level is 46.47
+
+FRPT
+On Bar 7 of Sell Count
+The latest close is 155.91
+TDST Resistence level is 183.38
+
+FTDR
+On Bar 1 of Sell Count
+The latest close is 37.28
+TDST Resistence level is 51.91
+
+GBCI
+On Bar 4 of Sell Count
+The latest close is 55.29
+TDST Resistence level is 61.28
+
+GBT
+On Bar 3 of Sell Count
+The latest close is 36.52
+TDST Resistence level is 41.23
+
+GO
+On Bar 1 of Sell Count
+The latest close is 22.19
+TDST Resistence level is 36.77
+
+GT
+On Bar 6 of Sell Count
+The latest close is 19.12
+TDST Resistence level is 20.60
+
+HOMB
+On Bar 6 of Sell Count
+The latest close is 23.76
+TDST Resistence level is 27.89
+
+HQY
+On Bar 1 of Sell Count
+The latest close is 66.18
+TDST Resistence level is 86.40
+
+HQY
+On Bar 1 of Sell Count
+The latest close is 66.18
+TDST Resistence level is 80.50
+
+HWC
+On Bar 4 of Sell Count
+The latest close is 49.48
+TDST Resistence level is 50.02
+
+IBOC
+On Bar 4 of Sell Count
+The latest close is 42.40
+TDST Resistence level is 47.65
+
+INDB
+On Bar 4 of Sell Count
+The latest close is 84.50
+TDST Resistence level is 87.21
+
+INSM
+On Bar 1 of Sell Count
+The latest close is 30.15
+TDST Resistence level is 43.30
+
+IOSP
+On Bar 2 of Sell Count
+The latest close is 90.61
+TDST Resistence level is 107.15
+
+IRTC
+On Bar 7 of Sell Count
+The latest close is 70.14
+TDST Resistence level is 286.19
+
+LANC
+On Bar 3 of Sell Count
+The latest close is 170.00
+TDST Resistence level is 197.96
+
+LOPE
+On Bar 2 of Sell Count
+The latest close is 79.70
+TDST Resistence level is 115.96
+
+LSTR
+On Bar 2 of Sell Count
+The latest close is 175.81
+TDST Resistence level is 182.34
+
+MANT
+On Bar 3 of Sell Count
+The latest close is 86.22
+TDST Resistence level is 88.28
+
+ME
+On Bar 2 of Sell Count
+The latest close is 11.59
+TDST Resistence level is 14.75
+
+MRCY
+On Bar 3 of Sell Count
+The latest close is 51.54
+TDST Resistence level is 88.80
+
+MSTR
+On Bar 3 of Sell Count
+The latest close is 715.06
+TDST Resistence level is 882.10
+
+NFE
+On Bar 3 of Sell Count
+The latest close is 30.00
+TDST Resistence level is 53.41
+
+OCDX
+On Bar 3 of Sell Count
+The latest close is 19.77
+TDST Resistence level is 22.55
+
+OLLI
+On Bar 1 of Sell Count
+The latest close is 67.66
+TDST Resistence level is 94.68
+
+ONB
+On Bar 4 of Sell Count
+The latest close is 17.08
+TDST Resistence level is 19.25
+
+ONEM
+On Bar 1 of Sell Count
+The latest close is 21.66
+TDST Resistence level is 35.25
+
+PBCT
+On Bar 6 of Sell Count
+The latest close is 16.96
+TDST Resistence level is 18.68
+
+PPBI
+On Bar 4 of Sell Count
+The latest close is 41.66
+TDST Resistence level is 46.69
+
+RCM
+On Bar 6 of Sell Count
+The latest close is 21.70
+TDST Resistence level is 22.22
+
+REGI
+On Bar 4 of Sell Count
+The latest close is 64.00
+TDST Resistence level is 114.40
+
+RIOT
+On Bar 1 of Sell Count
+The latest close is 27.22
+TDST Resistence level is 61.55
+
+RNST
+On Bar 4 of Sell Count
+The latest close is 37.41
+TDST Resistence level is 44.59
+
+ROCK
+On Bar 3 of Sell Count
+The latest close is 65.16
+TDST Resistence level is 96.33
+
+RXT
+On Bar 7 of Sell Count
+The latest close is 13.29
+TDST Resistence level is 21.20
+
+SLGN
+On Bar 2 of Sell Count
+The latest close is 40.20
+TDST Resistence level is 43.86
+
+SPWR
+On Bar 6 of Sell Count
+The latest close is 33.66
+TDST Resistence level is 34.46
+
+SRCL
+On Bar 2 of Sell Count
+The latest close is 66.92
+TDST Resistence level is 77.96
+
+SSB
+On Bar 4 of Sell Count
+The latest close is 78.09
+TDST Resistence level is 90.19
+
+TCBI
+On Bar 4 of Sell Count
+The latest close is 60.60
+TDST Resistence level is 70.94
+
+TENB
+On Bar 3 of Sell Count
+The latest close is 53.25
+TDST Resistence level is 58.45
+
+TFSL
+On Bar 4 of Sell Count
+The latest close is 19.46
+TDST Resistence level is 21.70
+
+TRUP
+On Bar 2 of Sell Count
+The latest close is 102.40
+TDST Resistence level is 126.53
+
+TRUP
+On Bar 2 of Sell Count
+The latest close is 102.40
+TDST Resistence level is 119.40
+
+UBSI
+On Bar 4 of Sell Count
+The latest close is 36.99
+TDST Resistence level is 41.19
+
+UFPI
+On Bar 3 of Sell Count
+The latest close is 81.83
+TDST Resistence level is 83.14
+
+ULCC
+On Bar 4 of Sell Count
+The latest close is 15.65
+TDST Resistence level is 22.70
+
+VERX
+On Bar 1 of Sell Count
+The latest close is 20.82
+TDST Resistence level is 39.53
+
+VLY
+On Bar 4 of Sell Count
+The latest close is 13.26
+TDST Resistence level is 14.26
+
+WOOF
+On Bar 1 of Sell Count
+The latest close is 24.73
+TDST Resistence level is 28.73
+
+WSBC
+On Bar 4 of Sell Count
+The latest close is 34.77
+TDST Resistence level is 38.65
+
+XMTR
+On Bar 1 of Sell Count
+The latest close is 54.00
+TDST Resistence level is 80.70
+
+XNCR
+On Bar 3 of Sell Count
+The latest close is 39.56
+TDST Resistence level is 44.80
